@@ -16,6 +16,6 @@ describe('Calculator Tests', function() {
   it('should add four', function() {
     expect(calculator.addFour(2)).toEqual(6);
     expect(calculator.addFour(4)).toEqual(8);
-    expect(calculator.addFour(8)).toEqual(14);
+    expect(calculator.addFour(8)).toEqual(12);
   });
 });
