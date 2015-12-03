@@ -1,0 +1,27 @@
+{
+  "name": "monosyllabic",
+  "version": "0.0.1",
+  "description": "My legendary module",
+  "license": "MIT",
+  "repository": "jfmercer/monosyllabic",
+  "author": {
+    "name": "John F. Mercer",
+    "email": "john.f.mercer@gmail.com",
+    "url": "github.com/jfmercer/monosyllabic"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
