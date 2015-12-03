@@ -1,6 +1,6 @@
 {
   "name": "monosyllabic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "My legendary module",
   "license": "MIT",
   "repository": "jfmercer/monosyllabic",
@@ -19,9 +19,11 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "monosyllabic"
   ],
   "dependencies": {},
   "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jasmine": "^2.2.1"
   }
 }
